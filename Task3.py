@@ -9,9 +9,11 @@ except ValueError:
     
 chara= string.ascii_letters+string.digits+"#$&"
 
-password=""
+password=[]
 
 for i in range(length):
-    password+=secrets.choice(chara)
+    password.append(secrets.choice(chara))
 
-print("Generated Password:",password)
+final_password="".join(password)
+
+print("Generated Password:",final_password)
