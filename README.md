@@ -14,9 +14,3 @@ secrets Module,
 string Module,
 String Manipulation,
 and Loops.
-
-What I Learned:
-Importing and using Python libraries,
-Generating random secure data,
-Basic security tool development,
-and String handling in Python.
