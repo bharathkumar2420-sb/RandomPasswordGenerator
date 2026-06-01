@@ -14,3 +14,7 @@ secrets Module,
 string Module,
 String Manipulation,
 and Loops.
+
+Output Screenshot:
+
+![Result](task3.png)
